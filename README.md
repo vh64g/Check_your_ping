@@ -1,2 +1,2 @@
-# Check_your_ping
-Check your ping to any Server
+# This branch contains the Programms as py and exe
+
