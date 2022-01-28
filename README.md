@@ -5,7 +5,7 @@ Check your ping to any Server
 
 -------------------------------------
 
-A nice little Python application to learn some python ui basics
+A nice little Python application to learn some python ui basics, using tkinter!
 
 -------------------------------------
 
